@@ -1,0 +1,113 @@
+ntly) [41ms]
+2021-01-01 00:08:17 [info     /  85kB] > GET /canonical.html (301 Moved Permanently) [57ms]
+2021-01-01 00:08:20 [info     / 107kB] > GET /canonical.html (301 Moved Permanently) [51ms]
+2021-01-01 00:08:23 [info     /  88kB] > GET /canonical.html (301 Moved Permanently) [49ms]
+2021-01-01 00:08:26 [info     /  70kB] > GET /canonical.html (301 Moved Permanently) [54ms]
+2021-01-01 00:08:29 [info     /  94kB] > GET /canonical.html (301 Moved Permanently) [56ms]
+2021-01-01 00:08:32 [info     /  78kB] > GET /ncc.txt (301 Moved Permanently) [27ms]
+2021-01-01 00:08:32 [info     /  70kB] > GET /ncc.txt (301 Moved Permanently) [86ms]
+2021-01-01 00:08:33 [info     / 103kB] > GET /canonical.html (301 Moved Permanently) [127ms]
+2021-01-01 00:08:36 [info     /  84kB] > GET /canonical.html (301 Moved Permanently) [49ms]
+2021-01-01 00:08:39 [info     / 106kB] > GET /canonical.html (301 Moved Permanently) [67ms]
+2021-01-01 00:08:42 [info     /  87kB] > GET /canonical.html (301 Moved Permanently) [54ms]
+2021-01-01 00:08:45 [info     /  68kB] > GET /canonical.html (301 Moved Permanently) [52ms]
+2021-01-01 00:08:46 [info     / 101kB] > GET /connecttest.txt (301 Moved Permanently) [29ms]
+2021-01-01 00:08:46 [info     /  92kB] > GET /connecttest.txt (301 Moved Permanently) [27ms]
+2021-01-01 00:08:48 [info     /  74kB] > GET /canonical.html (301 Moved Permanently) [56ms]
+2021-01-01 00:08:51 [info     /  95kB] > GET /canonical.html (301 Moved Permanently) [51ms]
+2021-01-01 00:08:54 [info     /  77kB] > GET /canonical.html (301 Moved Permanently) [50ms]
+2021-01-01 00:08:57 [info     / 101kB] > GET /canonical.html (301 Moved Permanently) [55ms]
+2021-01-01 00:09:00 [info     /  83kB] > GET /canonical.html (301 Moved Permanently) [48ms]
+2021-01-01 00:09:03 [info     / 105kB] > GET /canonical.html (301 Moved Permanently) [64ms]
+2021-01-01 00:09:06 [info     /  86kB] > GET /canonical.html (301 Moved Permanently) [56ms]
+2021-01-01 00:09:09 [info     /  67kB] > GET /canonical.html (301 Moved Permanently) [56ms]
+2000-01-01 01:13:26 [debug    / 115kB] > performing startup
+2000-01-01 01:13:26 [info     / 123kB]   - wake reason: usb_powered
+2000-01-01 01:13:26 [debug    / 121kB]   - turn on activity led
+2000-01-01 01:13:26 [info     / 119kB] > clock not set, synchronise from ntp server
+2000-01-01 01:13:26 [info     / 117kB] > connecting to wifi network 'Loy WLAN'
+2000-01-01 01:13:32 [info     /  95kB]   - ip address:  192.168.2.22
+2000-01-01 01:13:42 [error    /  96kB]   - failed to fetch time from ntp server
+2000-01-01 01:13:42 [error    /  94kB] ! failed to synchronise clock
+2000-01-01 01:13:42 [info     /  92kB] > going to sleep
+2000-01-01 01:13:42 [debug    /  90kB]   - clearing and disabling previous alarm
+2000-01-01 01:13:42 [info     /  87kB]   - setting alarm to wake at 01:15am
+2000-01-01 01:13:42 [info     /  85kB]   - shutting down
+2000-01-01 01:13:43 [debug    /  83kB]   - on usb power (so can't shutdown). Halt and wait for alarm or user reset instead
+2000-01-01 01:15:00 [debug    /  81kB]   - reset
+2000-01-01 01:15:03 [debug    / 115kB] > performing startup
+2000-01-01 01:15:03 [info     / 107kB]   - wake reason: rtc_alarm
+2000-01-01 01:15:03 [debug    / 106kB]   - turn on activity led
+2000-01-01 01:15:03 [info     / 104kB] > clock not set, synchronise from ntp server
+2000-01-01 01:15:03 [info     / 102kB] > connecting to wifi network 'Loy WLAN'
+2000-01-01 01:15:09 [info     / 119kB]   - ip address:  192.168.2.22
+2000-01-01 01:15:19 [error    /  82kB]   - failed to fetch time from ntp server
+2000-01-01 01:15:19 [error    /  80kB] ! failed to synchronise clock
+2000-01-01 01:15:19 [info     /  78kB] > going to sleep
+2000-01-01 01:15:19 [debug    / 123kB]   - clearing and disabling previous alarm
+2000-01-01 01:15:19 [info     / 120kB]   - setting alarm to wake at 01:20am
+2000-01-01 01:15:19 [info     / 118kB]   - shutting down
+2000-01-01 01:15:19 [debug    / 116kB]   - on usb power (so can't shutdown). Halt and wait for alarm or user reset instead
+2000-01-01 01:16:00 [debug    / 115kB] > performing startup
+2000-01-01 01:16:00 [info     / 123kB]   - wake reason: usb_powered
+2000-01-01 01:16:00 [debug    / 121kB]   - turn on activity led
+2000-01-01 01:16:00 [info     / 119kB] > clock not set, synchronise from ntp server
+2000-01-01 01:16:00 [info     / 117kB] > connecting to wifi network 'Loy WLAN'
+2000-01-01 01:16:05 [info     / 100kB]   - ip address:  192.168.2.22
+2023-02-23 18:47:43 [info     /  96kB]   - rtc synched
+2023-02-23 18:47:43 [debug    /  94kB] > 90 blocks free out of 212
+2023-02-23 18:47:43 [debug    /  91kB] > taking new reading
+2023-02-23 18:47:43 [info     / 122kB]   - seconds since last reading: -531998918
+2023-02-23 18:47:43 [debug    / 120kB]   - starting sensor
+2023-02-23 18:47:43 [debug    / 118kB]   - wait 5 seconds for airflow
+2023-02-23 18:47:48 [debug    /  98kB]   - taking pms5003i reading
+2023-02-23 18:47:48 [debug    /  96kB]   - taking microphone reading
+2023-02-23 18:47:49 [debug    /  94kB] > caching reading for upload
+2023-02-23 18:47:49 [info     /  82kB] > 38 cache file(s) need uploading
+2023-02-23 18:47:49 [info     /  80kB] > connecting to wifi network 'Loy WLAN'
+2023-02-23 18:47:49 [info     / 124kB]   - ip address:  192.168.2.22
+2023-02-23 18:47:50 [info     / 119kB] > uploading cached readings to url: https://api.sensor.community/v1/push-sensor-data/45707
+2023-02-23 18:48:46 [debug    / 115kB] > performing startup
+2023-02-23 18:48:46 [info     / 123kB]   - wake reason: usb_powered
+2023-02-23 18:48:46 [debug    / 121kB]   - turn on activity led
+2023-02-23 18:48:46 [debug    / 118kB] > 90 blocks free out of 212
+2023-02-23 18:48:46 [debug    / 116kB] > taking new reading
+2023-02-23 18:48:46 [info     / 111kB]   - seconds since last reading: 63
+2023-02-23 18:48:46 [debug    / 109kB]   - starting sensor
+2023-02-23 18:48:47 [debug    / 106kB]   - wait 5 seconds for airflow
+2023-02-23 18:48:52 [debug    / 122kB]   - taking pms5003i reading
+2023-02-23 18:48:52 [debug    / 120kB]   - taking microphone reading
+2023-02-23 18:48:52 [debug    / 119kB] > caching reading for upload
+2023-02-23 18:48:52 [info     / 108kB] > 39 cache file(s) need uploading
+2023-02-23 18:48:53 [info     / 105kB] > connecting to wifi network 'Loy WLAN'
+2023-02-23 18:55:47 [debug    / 115kB] > performing startup
+2023-02-23 18:55:47 [info     / 123kB]   - wake reason: usb_powered
+2023-02-23 18:55:47 [debug    / 121kB]   - turn on activity led
+2023-02-23 18:55:47 [debug    / 118kB] > 86 blocks free out of 212
+2023-02-23 18:55:47 [debug    / 116kB] > taking new reading
+2023-02-23 18:55:47 [info     / 111kB]   - seconds since last reading: 421
+2023-02-23 18:55:47 [debug    / 109kB]   - starting sensor
+2023-02-23 18:55:47 [debug    / 107kB]   - wait 5 seconds for airflow
+2023-02-23 18:55:53 [debug    / 122kB]   - taking pms5003i reading
+2023-02-23 18:55:53 [debug    / 120kB]   - taking microphone reading
+2023-02-23 18:55:53 [debug    / 119kB] > caching reading for upload
+2023-02-23 18:55:54 [info     / 107kB] > 40 cache file(s) need uploading
+2023-02-23 18:55:54 [info     / 105kB] > connecting to wifi network 'Loy WLAN'
+2023-02-23 18:55:56 [error    /  96kB] ! failed to connect to wireless network Loy WLAN
+2023-02-23 18:55:56 [error    / 124kB]   - cannot upload readings, wifi connection failed
+2023-02-23 18:55:56 [error    / 122kB] ! reading upload failed
+2023-02-23 18:55:56 [info     / 120kB] > going to sleep
+2023-02-23 18:55:56 [debug    / 118kB]   - clearing and disabling previous alarm
+2023-02-23 18:55:56 [info     / 115kB]   - setting alarm to wake at 19:00pm
+2023-02-23 18:55:56 [info     / 113kB]   - shutting down
+2023-02-23 18:55:57 [debug    / 111kB]   - on usb power (so can't shutdown). Halt and wait for alarm or user reset instead
+2023-02-23 18:58:33 [debug    / 115kB] > performing startup
+2023-02-23 18:58:33 [info     / 123kB]   - wake reason: usb_powered
+2023-02-23 18:58:33 [debug    / 121kB]   - turn on activity led
+2023-02-23 18:58:33 [debug    / 118kB] > 85 blocks free out of 212
+2023-02-23 18:58:33 [debug    / 116kB] > taking new reading
+2023-02-23 18:58:33 [info     / 111kB]   - seconds since last reading: 166
+2023-02-23 18:58:33 [debug    / 109kB]   - starting sensor
+2023-02-23 18:58:34 [debug    / 106kB]   - wait 5 seconds for airflow
+2023-02-23 18:58:39 [debug    / 122kB]   - taking pms5003i reading
+2023-02-23 18:58:39 [debug    / 120kB]   - taking microphone reading
