@@ -105,7 +105,7 @@ def provision_step_4_destination(request):
     config.destination = request.form["destination"]
 
     # custom http endpoint
-    config.custom_http_url = request.form["custom_http_url"]
+    config.custom_http_url1 = request.form["custom_http_url1"]
     config.custom_http_url2 = request.form["custom_http_url2"]
     config.custom_header_content = request.form["header_content"]
     config.custom_header_xpin1 = request.form["header_xpin1"]

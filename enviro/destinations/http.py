@@ -6,7 +6,7 @@ import urequests
 import config
 
 def log_destination():
-  logging.info(f"> uploading cached readings to url: {config.custom_http_url} and {config.custom_http_url2}")
+  logging.info(f"> uploading cached readings to url: {config.custom_http_url1} and {config.custom_http_url2}")
 
 def upload_reading(reading):
   url1 = config.custom_http_url1
